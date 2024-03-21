@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-03-21T12:55:51.842934Z</date>
+  <millis>1711025751842</millis>
+  <nanos>934000</nanos>
+  <sequence>0</sequence>
+  <logger>base.ControlCompuertas</logger>
+  <level>FINE</level>
+  <class>base.ControlCompuertas</class>
+  <method>mostrarMenu</method>
+  <thread>1</thread>
+  <message>3</message>
+</record>
+</log>
